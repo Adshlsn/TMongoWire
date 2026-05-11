@@ -3,3 +3,6 @@ Have the happy time
 hello(){
   print("hello world")
 }
+sayhello(){
+	print("hahah")
+}
