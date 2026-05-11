@@ -1,2 +1,5 @@
 this is stable file
 Have the happy time
+hello(){
+  print("hello world")
+}
