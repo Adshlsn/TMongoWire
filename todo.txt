@@ -41,3 +41,5 @@ support varByRef?
 store bson element type and use when saving
 
 varStrArg for GUIDs?
+
+what should I do next?
