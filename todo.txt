@@ -43,3 +43,5 @@ store bson element type and use when saving
 varStrArg for GUIDs?
 
 what should I do next?
+
+Today is a good day
